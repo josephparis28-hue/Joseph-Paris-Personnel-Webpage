@@ -36,7 +36,6 @@ body {
 .container {
   width: min(1100px, 92%);
   margin-inline: auto;
-  text-align: center;
 }
 
 .muted {
@@ -129,7 +128,6 @@ a:focus-visible {
 /* Main Sections */
 main {
   padding: 2.25rem 0 3rem;
-  text-align: left;
 }
 
 section {
@@ -147,25 +145,25 @@ h2 {
   font-size: 1.6rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--border);
-  text-align: left;
+  text-align: center;
 }
 
 h3 {
   margin: 1.25rem 0 0.5rem;
-  text-align: left;
+  text-align: center;
 }
 
 p {
   max-width: 70ch;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
   text-align: left;
 }
 
 ul,
 ol {
-  padding-left: 0;
-  list-style-position: inside;
+  padding-left: 1.25rem;
+  list-style-position: outside;
   text-align: left;
 }
 
@@ -195,7 +193,7 @@ a:hover {
   border: 1px solid var(--border);
   border-radius: 16px;
   padding: 1.1rem;
-  text-align: center;
+  text-align: left;
 }
 
 .card h3 {
@@ -213,7 +211,7 @@ a:hover {
   border-radius: 14px;
   border: 1px solid var(--border);
   background: rgba(255, 255, 255, 0.03);
-  text-align: center;
+  text-align: left;
 }
 
 /* Footer */
