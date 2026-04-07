@@ -153,9 +153,9 @@ h3 {
 
 p {
   max-width: 70ch;
-  margin-left: auto;   
-  margin-right: auto;  
-  text-align: left;    
+  margin-left: auto !important;  
+  margin-right: auto !important;
+  text-align: left;
 }
 
 ul {
