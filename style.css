@@ -160,10 +160,12 @@ p {
 
 ul {
   padding-left: 1.15rem;
+  text-align: center;
 }
 
 li {
   margin: 0.35rem 0;
+  text-align: center;
 }
 
 a {
@@ -204,6 +206,7 @@ a:hover {
   border-radius: 14px;
   border: 1px solid var(--border);
   background: rgba(255, 255, 255, 0.03);
+  text-align: center;
 }
 
 /* Footer */
