@@ -162,7 +162,8 @@ p {
   text-align: center;
 }
 
-ul {
+ul,
+ol {
   padding-left: 0;
   list-style-position: inside;
   text-align: center;
