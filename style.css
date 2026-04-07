@@ -129,7 +129,7 @@ a:focus-visible {
 /* Main Sections */
 main {
   padding: 2.25rem 0 3rem;
-  text-align: center;
+  text-align: left;
 }
 
 section {
@@ -139,7 +139,7 @@ section {
   padding: 1.75rem;
   margin: 1.25rem 0;
   box-shadow: var(--shadow);
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
@@ -147,31 +147,31 @@ h2 {
   font-size: 1.6rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--border);
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
   margin: 1.25rem 0 0.5rem;
-  text-align: center;
+  text-align: left;
 }
 
 p {
   max-width: 70ch;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  text-align: left;
 }
 
 ul,
 ol {
   padding-left: 0;
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
 }
 
 li {
   margin: 0.35rem 0;
-  text-align: center;
+  text-align: left;
 }
 
 a {
