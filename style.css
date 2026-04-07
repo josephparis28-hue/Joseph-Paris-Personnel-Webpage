@@ -74,6 +74,7 @@ body {
 .eyebrow {
   margin: 0 0 0.5rem;
   letter-spacing: 0.12em;
+  text-align: center;
   text-transform: uppercase;
   color: var(--muted);
   font-size: 0.9rem;
