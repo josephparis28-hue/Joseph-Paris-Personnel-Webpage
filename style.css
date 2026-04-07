@@ -229,6 +229,11 @@ a:hover {
   text-align: center;
 }
 
+.site-footer p {
+  margin: 0 auto;
+  text-align: center;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .cards {
