@@ -80,4 +80,4 @@ The project will be considered complete when:
 ## References
 
 [^1]: Kogon, K., & Blakemore, S. (2024). *Project Management for the Unofficial Project Manager* (Updated and Revised Edition). BenBella Books.  
-[^2]: Cone, M. (n.d.). *Markdown Cheat Sheet*. Markdown Guide. https://markdownguide.org/cheat-sheet
+[^2]: Cone, M. (n.d.). *Markdown Cheat Sheet*. Markdown Guide. [https://markdownguide.org/cheat-sheet]
