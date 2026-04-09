@@ -75,7 +75,7 @@ The project will be considered complete when:
 - The webpage contains proper HTML syntax  
 - All CSS preparation for future styling is included in the `index.html` file (linked but not fully implemented)
 
----
+---[^2]
 
 ## References
 
