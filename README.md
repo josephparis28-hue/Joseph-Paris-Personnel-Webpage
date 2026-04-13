@@ -59,7 +59,7 @@ The following items are explicitly out of scope for this project:
 
 The project will be considered complete when:
 
-- `scope.md` clearly defines the purpose, description, desired results, and exclusions[^1]  
+- `README.md` clearly defines the purpose, description, desired results, and exclusions[^1]  
 - `index.html` is a valid HTML5 document and includes:  
   - A `<title>` element in the `<head>`  
   - An `<h1>` element with my name  
