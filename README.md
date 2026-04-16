@@ -1,4 +1,4 @@
-# Project 01: Personal Portfolio Webpage
+# Project 01: Joseph Paris's Personal Portfolio Webpage
 
 ## Project Scope, Documentation, and Feature Summary
 
@@ -73,6 +73,12 @@ As the project evolved into a polished portfolio, the following enhancements wer
 - Fade‑in animations triggered by scroll  
 - Smooth hover transitions  
 - Animated Back‑to‑Top button  
+
+### Scroll Progress Bar
+
+- Thin progress bar at the top of the page
+- Fills based on scroll position
+- Matches site accent color
 
 ### Improved Project Cards  
 
@@ -156,11 +162,17 @@ The project will be considered complete when:
 - Project cards with images and status badges  
 - Centered project introduction text  
 - Scroll‑triggered animations  
+- Scroll progress bar
 - Footer navigation with social icons  
 - Back‑to‑Top button  
 - SEO metadata  
 
 ---[^2]
+
+##### Visit Joseph Paris's GitHub and Webpage
+
+- [My GitHub Repository](https://github.com/josephparis28-hue/Joseph-Paris-Personnel-Webpage)
+- [My Personal Webpage](https://josephparis28-hue.github.io/Joseph-Paris-Personnel-Webpage/)
 
 ##### References
 

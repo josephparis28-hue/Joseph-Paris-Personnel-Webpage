@@ -38,12 +38,22 @@ body {
   color: var(--text);
   line-height: 1.7;
   text-align: center;
-  padding-bottom: 6rem; /* ensures scroll height */
+  padding-bottom: 6rem;
 }
 
-/* 
-   Typography
-*/
+/* Scroll Progress Bar */
+#scrollProgress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5px;
+  width: 0%;
+  background: var(--accent);
+  z-index: 99999;
+  transition: width 0.15s ease-out;
+}
+
+/* Typography */
 h1, h2, h3 {
   font-family: 'Poppins', sans-serif;
   letter-spacing: 0.5px;
@@ -70,17 +80,13 @@ p {
   text-align: left;
 }
 
-/* 
-   Layout Utility
-*/
+/* Layout Utility */
 .container {
   width: min(1100px, 92%);
   margin-inline: auto;
 }
 
-/* 
-   Skip Link
-*/
+/* Skip Link */
 .skip-link {
   position: absolute;
   left: -9999px;
@@ -97,9 +103,7 @@ p {
   z-index: 999;
 }
 
-/* 
-   Header
-*/
+/* Header */
 .site-header {
   padding: 3rem 0 2rem;
   border-bottom: 1px solid var(--border);
@@ -118,9 +122,7 @@ p {
   margin-top: 0.5rem;
 }
 
-/* 
-   Navigation
-*/
+/* Navigation */
 .nav-list {
   list-style: none;
   display: flex;
@@ -145,9 +147,7 @@ p {
   background: rgba(255, 255, 255, 0.1);
 }
 
-/* 
-   Sections
-*/
+/* Sections */
 section {
   background: rgba(15, 26, 51, 0.55);
   border: 1px solid var(--border);
@@ -157,9 +157,7 @@ section {
   box-shadow: var(--shadow);
 }
 
-/* 
-   Lists
-*/
+/* Lists */
 ul, ol {
   display: inline-block;
   text-align: left;
@@ -171,9 +169,7 @@ li {
   margin: 0.45rem 0;
 }
 
-/* 
-   Project Cards
-*/
+/* Project Cards */
 .projects-intro {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -214,9 +210,7 @@ li {
   font-style: italic;
 }
 
-/* 
-   Contact Card
-*/
+/* Contact Card */
 .contact-card {
   background: rgba(255, 255, 255, 0.05);
   padding: 1.5rem;
@@ -226,9 +220,7 @@ li {
   box-shadow: 0 8px 20px rgba(0,0,0,0.25);
 }
 
-/* 
-   Footer
-*/
+/* Footer */
 .site-footer {
   padding: 2.5rem 0;
   border-top: 1px solid var(--border);
@@ -240,9 +232,7 @@ li {
   text-align: center;
 }
 
-/* 
-   Links
-*/
+/* Links */
 a {
   color: var(--link);
 }
@@ -260,9 +250,7 @@ a[href^="mailto:"] {
   font-weight: bold;
 }
 
-/* 
-   Animations
-*/
+/* Fade-in Animations */
 .fade-in {
   opacity: 0;
   transform: translateY(20px);
@@ -274,9 +262,7 @@ a[href^="mailto:"] {
   transform: translateY(0);
 }
 
-/* 
-   Custom Scrollbar
-*/
+/* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 12px;
 }
@@ -301,9 +287,7 @@ a[href^="mailto:"] {
   scrollbar-color: var(--accent) var(--surface);
 }
 
-/* 
-   Back to Top Button
-*/
+/* Back to Top Button */
 #backToTop {
   position: fixed;
   bottom: 2rem;
@@ -336,9 +320,7 @@ a[href^="mailto:"] {
   pointer-events: auto;
 }
 
-/* 
-   Responsive
-*/
+/* Responsive */
 @media (max-width: 900px) {
   .cards {
     grid-template-columns: 1fr;

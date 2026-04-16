@@ -1,8 +1,37 @@
+// Fade-in on scroll
+const faders = document.querySelectorAll('.fade-in');
+
+const appearOptions = {
+  threshold: 0.2
+};
+
+const appearOnScroll = new IntersectionObserver((entries, observer) => {
+  entries.forEach(entry => {
+    if (!entry.isIntersecting) return;
+    entry.target.classList.add('visible');
+    observer.unobserve(entry.target);
+  });
+}, appearOptions);
+
+faders.forEach(fader => {
+  appearOnScroll.observe(fader);
+});
+
+// Scroll Progress Bar
+const scrollProgress = document.getElementById('scrollProgress');
+
+window.addEventListener('scroll', () => {
+  const scrollTop = window.scrollY;
+  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+  const scrollPercent = (scrollTop / docHeight) * 100;
+  scrollProgress.style.width = scrollPercent + "%";
+});
+
 // Back to Top Button
 const backToTop = document.getElementById('backToTop');
 
 window.addEventListener('scroll', () => {
-  if (window.scrollY > 1) {
+  if (window.scrollY > 100) {
     backToTop.classList.add('visible');
   } else {
     backToTop.classList.remove('visible');
