@@ -1,23 +1,34 @@
 # Project 01: Personal Portfolio Webpage
 
+## Project Scope, Documentation, and Feature Summary
+
 ---
 
 ## Project Purpose
 
-The purpose of this project is to apply the project management principle of **scoping** by clearly defining the goals, deliverables, and limitations of a technical task. This project focuses on planning and developing a single‑page personal webpage using semantic HTML5.[^1]
+The project purpose is to apply the project management principle of **scoping** by clearly defining the goals, deliverables and limitations of a technical task. The project focuses on planning and developing a **single‑page personal portfolio webpage** using semantic HTML5. This requires a clear scope that ensures understanding the structural requirements and boundaries before beginning technical execution.[^1]
 
 ---
 
 ## Project Description
 
-This project involves the development of a single‑page personal portfolio website built with valid HTML5. The webpage will introduce who I am, my academic background, and my professional interests. The primary emphasis is on semantic structure, accessibility, and clarity.
+This project involves the development of a **single‑page personal portfolio website** built with valid HTML5. The webpage introduces who I am, my academic background and my professional interests. The primary emphasis is on:
+
+- Semantic structure  
+- Accessibility  
+- Clarity  
+- Proper use of HTML5 elements  
+
+As the project progressed, the webpage expanded to include modern UI enhancements like animations, improved visual hierarchy, project cards, a contact section, footer navigation and a Back‑to‑Top button.
 
 ---
 
-## Desired Results for Week 3
+## Desired Results for Week 5 
 
-- A clearly defined scope statement completed before development begins[^1]  
-- A valid HTML5 document that uses semantic elements correctly  
+To successfully complete this phase of the project, the following outcomes must be achieved:
+
+- A clearly defined **scope.md** completed before development begins[^1]  
+- A valid HTML5 document using semantic elements correctly  
 - A professional single‑page personal webpage that introduces me and my interests  
 - Demonstrated understanding of how project scoping improves focus and efficiency  
 - Front‑loading all necessary work for upcoming deliverables[^1]  
@@ -27,57 +38,131 @@ This project involves the development of a single‑page personal portfolio webs
 
 ---
 
-## Deliverables for Week 3
+## Deliverables for Week 5
 
 - `scope.md` — a formal project scope statement written in Markdown  
 - `index.html` — a single‑page semantic HTML document  
 
 ---
 
-## Exclusions for Week 3
+## Exclusions for Week 5  
 
-The following items are explicitly out of scope for this project:
+The following items are explicitly **out of scope** for this project:
 
-- JavaScript functionality  
+- JavaScript functionality (added later in development)  
 - User authentication  
 - Multi‑page navigation  
 - External libraries  
-- CSS styling beyond basic preparation (styling will be expanded in later weeks)
+- Full CSS styling (expanded in later weeks)  
 
 ---
 
-## Constraints
+## Additional Features Added After Week 5
+
+As the project evolved into a polished portfolio, the following enhancements were implemented:
+
+### Visual Hierarchy & Typography
+
+- Google Fonts (Poppins) for headings  
+- Improved spacing and readability  
+- Section containers with consistent padding  
+- Centered project introduction text  
+
+### Subtle Animations
+
+- Fade‑in animations triggered by scroll  
+- Smooth hover transitions  
+- Animated Back‑to‑Top button  
+
+### Improved Project Cards  
+
+- Thumbnail images  
+- “Status” badges aligned to the bottom of each card  
+- Modern hover elevation effect  
+- Consistent card spacing and layout  
+
+### Enhanced Contact Section  
+
+- Contact card with improved layout  
+- Clear GitHub and email links  
+- Professional formatting  
+
+### Footer Navigation + Social Icons
+
+- Footer links for About, Projects, Contact  
+- GitHub and placeholder social icons  
+- Clean, centered layout  
+
+### Back‑to‑Top Button  
+
+- Floating circular button  
+- Smooth scrolling  
+- Appears only when scrolling down  
+- Matches site color palette  
+
+### Custom Scrollbar
+
+- Accent‑colored scrollbar  
+- Rounded thumb  
+- Hover color transition  
+- Cross‑browser support (Chrome, Edge, Safari, Firefox)
+
+### Metadata & SEO Enhancements
+
+- Open Graph tags  
+- Author and keyword metadata  
+- Favicon support  
+
+---
+
+#### Constraints  
 
 - The webpage must meet all minimum assignment requirements  
 - The final academic submission must be a single `.zip` file containing only:  
-  - `scope.md`  
-  - `index.html`  
+  - `scope.md` **with no -copy in file name**
+  - `index.html` **with no -copy in file name**
 
 ---
 
-## Acceptance Criteria
+#### Acceptance Criteria  
 
 The project will be considered complete when:
 
-- `README.md` clearly defines the purpose, description, desired results, and exclusions[^1]  
-- `index.html` is a valid HTML5 document and includes:  
-  - A `<title>` element in the `<head>`  
-  - An `<h1>` element with my name  
-  - An `<h2>` element for my major or professional interest  
-  - A paragraph describing who I am  
-  - A paragraph describing my professional interests  
-  - A paragraph describing my goals  
-  - An unordered list of technical skills  
-  - An unordered list of personal interests  
-  - A section for projects  
-  - A section for contact information  
-  - A hyperlink to my GitHub profile  
-- The webpage contains proper HTML syntax  
-- All CSS preparation for future styling is included in the `index.html` file (linked but not fully implemented)
+#### **Scope Requirements**
+
+- `scope.md` clearly defines the purpose, description, desired results, and exclusions[^1]
+
+#### **HTML Requirements**
+
+`index.html` includes:
+
+- A `<title>` element  
+- An `<h1>` with my name  
+- An `<h2>` for my major or professional interest  
+- A paragraph describing who I am  
+- A paragraph describing my professional interests  
+- A paragraph describing my goals  
+- An unordered list of technical skills  
+- An unordered list of personal interests  
+- A section for projects  
+- A section for contact information  
+- A hyperlink to my GitHub profile  
+- Proper semantic HTML5 structure  
+- Linked CSS file for future styling  
+- Linked JavaScript file for animations and Back‑to‑Top functionality  
+
+#### **Feature Enhancements**
+
+- Project cards with images and status badges  
+- Centered project introduction text  
+- Scroll‑triggered animations  
+- Footer navigation with social icons  
+- Back‑to‑Top button  
+- SEO metadata  
 
 ---[^2]
 
-## References
+##### References
 
 [^1]: Kogon, K., & Blakemore, S. (2024). *Project Management for the Unofficial Project Manager* (Updated and Revised Edition). BenBella Books.  
 [^2]: Cone, M. (n.d.). *Markdown Cheat Sheet*. Markdown Guide. [https://markdownguide.org/cheat-sheet]
