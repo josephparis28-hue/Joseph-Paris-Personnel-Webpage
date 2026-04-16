@@ -171,7 +171,7 @@ The project will be considered complete when:
 
 ##### Visit Joseph Paris's GitHub and Webpage
 
-- [My GitHub Repository](https://github.com/josephparis28-hue/Joseph-Paris-Personnel-Webpage)
+- [My GitHub Repository](https://github.com/josephparis28-hue/josephparis28-hue.github.io)
 - [My Personal Webpage](https://josephparis28-hue.github.io/Joseph-Paris-Personnel-Webpage/)
 
 ##### References
