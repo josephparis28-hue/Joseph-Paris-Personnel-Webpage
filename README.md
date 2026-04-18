@@ -38,14 +38,14 @@ To successfully complete this phase of the project, the following outcomes must 
 
 ---
 
-## Deliverables for Week 5
+## Deliverables for Week 3
 
 - `scope.md` — a formal project scope statement written in Markdown  
 - `index.html` — a single‑page semantic HTML document  
 
 ---
 
-## Exclusions for Week 5  
+## Exclusions for Week 3
 
 The following items are explicitly **out of scope** for this project:
 
