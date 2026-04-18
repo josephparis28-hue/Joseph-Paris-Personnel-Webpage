@@ -25,6 +25,7 @@ As the project progressed, the webpage expanded to include modern UI enhancement
 
 ## Desired Results for Week 3
 
+
 To successfully complete this phase of the project, the following outcomes must be achieved:
 
 - A clearly defined **scope.md** completed before development begins[^1]  
@@ -172,7 +173,7 @@ The project will be considered complete when:
 ##### Visit Joseph Paris's GitHub and Webpage
 
 - [My GitHub Repository](https://github.com/josephparis28-hue/josephparis28-hue.github.io)
-- [My Personal Webpage](https://josephparis28-hue.github.io/Joseph-Paris-Personnel-Webpage/)
+- [My Personal Webpage](https://josephparis28-hue.github.io/)
 
 ##### References
 
