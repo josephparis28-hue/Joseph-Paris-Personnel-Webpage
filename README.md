@@ -169,7 +169,7 @@ The project will be considered complete when:
 - SEO metadata  
 
 ---
-
+[^2]
 ##### Visit Joseph Paris's GitHub and Webpage
 
 - [My GitHub Repository](https://github.com/josephparis28-hue/josephparis28-hue.github.io)
