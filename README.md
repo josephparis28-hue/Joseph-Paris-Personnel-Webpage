@@ -168,7 +168,7 @@ The project will be considered complete when:
 - Back‑to‑Top button  
 - SEO metadata  
 
----[^2]
+---
 
 ##### Visit Joseph Paris's GitHub and Webpage
 
