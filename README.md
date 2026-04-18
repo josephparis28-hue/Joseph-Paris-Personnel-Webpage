@@ -23,7 +23,7 @@ As the project progressed, the webpage expanded to include modern UI enhancement
 
 ---
 
-## Desired Results for Week 5 
+## Desired Results for Week 3
 
 To successfully complete this phase of the project, the following outcomes must be achieved:
 
@@ -57,7 +57,7 @@ The following items are explicitly **out of scope** for this project:
 
 ---
 
-## Additional Features Added After Week 5
+## Additional Features Added After Week 3
 
 As the project evolved into a polished portfolio, the following enhancements were implemented:
 
