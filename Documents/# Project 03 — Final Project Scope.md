@@ -1,6 +1,6 @@
 # Project 03 — Final Project Scope Statement  
 
-**Project Title:** Joseph Paris Personal Portfolio Website   
+**Project Title:** Joseph Paris Personal Portfolio Website
 **Prepared By:** Joseph Paris  
 **Date:** April 21, 2026  
 
@@ -21,13 +21,15 @@ This project consists of two integrated components:
 ### A. Project Management Documentation (docs/ folder)
 
 A complete documentation set including:
-- **scope.md** — This Project Scope Statement  
+
+- **scope.md** — This Project Scope Statement
 - **plan.md** — A project plan including a Work Breakdown Structure (WBS), schedule and TAME risk analysis  
 - **retrospective.md** — A reflection on what went well, what went wrong and what I would do differently  
 
 ### B. A Two‑Page Website (root directory)
 
 A fully functional, responsive, accessible website consisting of:
+
 - **index.html** — Homepage introducing who I am, my interests, goals and featured projects  
 - **about.html** — A second page with extended background, philosophy and additional content  
 - **style.css** — A unified stylesheet applied to both pages  
@@ -66,6 +68,7 @@ The final project should:
 ## 5. Deliverables
 
 ### A. Repository Deliverables
+
 - Public GitHub repository  
 - Professional `README.md` linking to:
   - Live website  
@@ -73,11 +76,13 @@ The final project should:
   - Project description  
 
 ### B. Documentation Deliverables (docs/)
+
 - `scope.md` — Revised Project Scope Statement  
 - `plan.md` — WBS, schedule, and TAME risk analysis  
 - `retrospective.md` — Reflection on the project process  
 
 ### C. Website Deliverables (root directory)
+
 - `index.html` — Homepage  
 - `about.html` — Second page  
 - `style.css` — Unified stylesheet  

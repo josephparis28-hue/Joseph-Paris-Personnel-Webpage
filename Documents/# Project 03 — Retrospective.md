@@ -1,4 +1,5 @@
 # Project 03 — Retrospective  
+
 **Prepared By:** Joseph Paris  
 **Date:** April 23, 2026  
 
@@ -7,18 +8,23 @@
 ## 1. What Went Well
 
 ### **Clear Project Direction**
+
 The revised scope statement provided a strong foundation for the entire project. Defining the purpose, deliverables, and constraints early made the development process smoother and more focused. The clarity of the scope helped prevent scope creep and kept the project aligned with the final requirements.
 
 ### **Consistent Application of PMUPM Principles**
+
 The planning phase followed the PMUPM framework effectively. Creating the WBS, schedule, and TAME risk analysis gave structure to the work and made it easier to track progress. Breaking tasks into smaller components helped maintain momentum and avoid feeling overwhelmed.
 
 ### **Improved Technical Execution**
+
 The two‑page website demonstrated growth from earlier projects. The HTML structure was more semantic, the CSS was more organized, and the overall design was more cohesive. The unified stylesheet ensured consistency across both pages, and optional enhancements added polish without compromising accessibility.
 
 ### **Professional Repository Organization**
+
 The GitHub repository was clean, well‑structured, and easy to navigate. The README.md clearly explained the project, linked to the live site, and connected to the documentation folder. This created a professional presentation suitable for a real portfolio.
 
 ### **Time Management**
+
 The project stayed close to the planned schedule. Completing the documentation first made the development phase more efficient, and testing early helped catch issues before deployment.
 
 ---

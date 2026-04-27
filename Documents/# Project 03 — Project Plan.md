@@ -129,7 +129,9 @@ The TAME framework evaluates **Technical, Assumptions, Market, and Execution** r
 ---
 
 ### **T — Technical Risks**
+
 | Risk | Impact | Mitigation |
+
 |------|--------|------------|
 | CSS layout issues | Medium | Use flexbox/grid, test frequently |
 | JavaScript errors | Low | Keep JS optional and modular |
@@ -139,7 +141,9 @@ The TAME framework evaluates **Technical, Assumptions, Market, and Execution** r
 ---
 
 ### **A — Assumption Risks**
+
 | Assumption | Risk | Mitigation |
+
 |-----------|------|------------|
 | Browser compatibility | Medium | Test on multiple devices |
 | Instructor expectations | Low | Follow rubric closely |
@@ -148,7 +152,9 @@ The TAME framework evaluates **Technical, Assumptions, Market, and Execution** r
 ---
 
 ### **M — Market/User Risks**
+
 | Risk | Impact | Mitigation |
+
 |------|--------|------------|
 | Website not engaging | Low | Use clean design and visuals |
 | Content unclear | Medium | Keep writing concise and structured |
@@ -157,7 +163,9 @@ The TAME framework evaluates **Technical, Assumptions, Market, and Execution** r
 ---
 
 ### **E — Execution Risks**
+
 | Risk | Impact | Mitigation |
+
 |------|--------|------------|
 | Falling behind schedule | High | Break tasks into small steps |
 | Over‑engineering features | Medium | Focus on required deliverables first |
@@ -183,4 +191,4 @@ The project will be considered successful when:
 By completing this document, I confirm that this is the official project plan for Project 03 and will guide all remaining work.
 
 **Prepared by:** Joseph Paris  
-**Date:** April 24, 2026  
+**Date:** April 24, 2026 
