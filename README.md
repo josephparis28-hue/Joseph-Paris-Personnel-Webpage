@@ -1,6 +1,6 @@
 # Joseph Paris — Project 03: Final Website & Documentation
 
-Welcome to my Project 03 repository. This project synthesizes all course concepts by combining project management principles from **PMUPM**, the hybrid generalist mindset from **Range**, and practical front‑end web development skills.  
+Welcome to my Project 03 repository. This project synthesizes all course concepts by combining project management principles from **PMUPM**, the hybrid generalist mindset from **Range**, and practical front‑end web development skills.[^1]
 
 This repository contains:
 

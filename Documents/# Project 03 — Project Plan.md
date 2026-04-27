@@ -1,5 +1,5 @@
-# Project 03 — Project Plan 
- 
+# Project 03 — Project Plan
+
 **Prepared By:** Joseph Paris  
 **Date:** April 23, 2026  
 
@@ -106,6 +106,7 @@ This approach ensures clarity, accountability, and steady progress toward a poli
 This schedule assumes a 1–2 week development window.
 
 | Task | Description | Estimated Time |
+
 |------|-------------|----------------|
 | Revise scope.md | Finalize scope statement | 1–2 hours |
 | Create plan.md | WBS, schedule, TAME analysis | 2–3 hours |
@@ -191,4 +192,4 @@ The project will be considered successful when:
 By completing this document, I confirm that this is the official project plan for Project 03 and will guide all remaining work.
 
 **Prepared by:** Joseph Paris  
-**Date:** April 24, 2026 
+**Date:** April 24, 2026

@@ -148,7 +148,7 @@ The project will be considered complete when:
 - Accessible color contrast and focus states  
 - No broken links or console errors  
 
-### Optional Enhancements 
+### Optional Enhancements
 
 - Scroll progress bar  
 - Fade‑in animations  
