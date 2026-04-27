@@ -27,12 +27,12 @@ The website topic is a **personal portfolio**, designed to introduce who I am, h
 
 Click below to view the live site:
 
-**Live Website (GitHub Pages Link Here)**  
-*(Replace this with your actual GitHub Pages URL once deployed.)*
+**[Live Website](https://josephparis28-hue.github.io/)**  
+*[GitHub Site](https://github.com/josephparis28-hue/)*
 
 ---
 
-## Repository Structure
+## Desired Results for Week 3
 
 project-03/
 │
@@ -49,7 +49,7 @@ project-03/
 
 ---
 
-## Documentation
+## Deliverables for Week 3
 
 All project documentation is located in the **docs/** folder.
 
@@ -61,6 +61,7 @@ Defines the purpose, deliverables, constraints, exclusions, acceptance criteria,
 ### [plan.md](docs/plan.md)
 
 A complete project plan including:
+
 - Work Breakdown Structure (WBS)
 - Task schedule
 - TAME risk analysis  
@@ -69,6 +70,7 @@ Based on PMUPM Chapter 4.
 ### [retrospective.md](docs/retrospective.md)
 
 A thoughtful reflection on:
+
 - What went well  
 - What went wrong  
 - What I would do differently  
@@ -76,12 +78,13 @@ Based on PMUPM Chapter 7.
 
 ---
 
-## Website Files
+## Exclusions for Week 3
 
 ### **index.html**
 
 The homepage of the website.  
 Includes:
+
 - Header + navigation  
 - Hero section  
 - About preview  
@@ -92,6 +95,7 @@ Includes:
 
 The second page of the website.  
 Includes:
+
 - Extended background  
 - Personal philosophy  
 - Additional content  
@@ -100,6 +104,7 @@ Includes:
 
 A single, unified stylesheet applied to both pages.  
 Includes:
+
 - Typography  
 - Layout  
 - Color palette  
@@ -108,7 +113,7 @@ Includes:
 
 ---
 
-## Technologies Used
+## Additional Features Added After Week 3
 
 - **HTML5** — semantic structure  
 - **CSS3** — styling, layout, responsive design  
@@ -143,5 +148,42 @@ Email: *(optional)*
 
 ## Status
 
-**Project Completed — Ready for Submission**
+Project Completed — Ready for Submission:
 
+- A `<title>` element  
+- An `<h1>` with my name  
+- An `<h2>` for my major or professional interest  
+- A paragraph describing who I am  
+- A paragraph describing my professional interests  
+- A paragraph describing my goals  
+- An unordered list of technical skills  
+- An unordered list of personal interests  
+- A section for projects  
+- A section for contact information  
+- A hyperlink to my GitHub profile  
+- Proper semantic HTML5 structure  
+- Linked CSS file for future styling  
+- Linked JavaScript file for animations and Back‑to‑Top functionality  
+
+### Feature Enhancements
+
+- Project cards with images and status badges  
+- Centered project introduction text  
+- Scroll‑triggered animations  
+- Scroll progress bar
+- Footer navigation with social icons  
+- Back‑to‑Top button  
+- SEO metadata  
+
+---
+[^2]
+
+#### Visit Joseph Paris's GitHub and Webpage
+
+- [My GitHub Repository](https://github.com/josephparis28-hue/josephparis28-hue.github.io)
+- [My Personal Webpage](https://josephparis28-hue.github.io/)
+
+##### References
+
+[^1]: Kogon, K., & Blakemore, S. (2024). *Project Management for the Unofficial Project Manager* (Updated and Revised Edition). BenBella Books.  
+[^2]: Cone, M. (n.d.). *Markdown Cheat Sheet*. Markdown Guide. [https://markdownguide.org/cheat-sheet]
