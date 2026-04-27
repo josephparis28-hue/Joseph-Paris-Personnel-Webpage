@@ -1,180 +1,147 @@
-# Project 01: Joseph Paris's Personal Portfolio Webpage
+# Joseph Paris — Project 03: Final Website & Documentation
 
-## Project Scope, Documentation, and Feature Summary
+Welcome to my Project 03 repository. This project synthesizes all course concepts by combining project management principles from **PMUPM**, the hybrid generalist mindset from **Range**, and practical front‑end web development skills.  
 
----
+This repository contains:
 
-## Project Purpose
-
-The project purpose is to apply the project management principle of **scoping** by clearly defining the goals, deliverables and limitations of a technical task. The project focuses on planning and developing a **single‑page personal portfolio webpage** using semantic HTML5. This requires a clear scope that ensures understanding the structural requirements and boundaries before beginning technical execution.[^1]
-
----
-
-## Project Description
-
-This project involves the development of a **single‑page personal portfolio website** built with valid HTML5. The webpage introduces who I am, my academic background and my professional interests. The primary emphasis is on:
-
-- Semantic structure  
-- Accessibility  
-- Clarity  
-- Proper use of HTML5 elements  
-
-As the project progressed, the webpage expanded to include modern UI enhancements like animations, improved visual hierarchy, project cards, a contact section, footer navigation and a Back‑to‑Top button.
+- A complete **two‑page website prototype**
+- A full **project documentation package**
+- A professional, portfolio‑ready structure
 
 ---
 
-## Desired Results for Week 5 
+## Project Overview
 
-To successfully complete this phase of the project, the following outcomes must be achieved:
+This project demonstrates my ability to plan, manage, and execute a digital project from start to finish. It includes:
 
-- A clearly defined **scope.md** completed before development begins[^1]  
-- A valid HTML5 document using semantic elements correctly  
-- A professional single‑page personal webpage that introduces me and my interests  
-- Demonstrated understanding of how project scoping improves focus and efficiency  
-- Front‑loading all necessary work for upcoming deliverables[^1]  
-- First deliverable due **April 5, 2026** by 11:59 p.m.  
-- Second deliverable due **April 19, 2026** by 11:59 p.m.  
-- Final deliverable due **May 8, 2026** by 11:59 p.m.
+- A fully functional, responsive, accessible **two‑page website**
+- A complete set of project management documents
+- A professional GitHub repository structure
+- A live deployment using GitHub Pages
+
+The website topic is a **personal portfolio**, designed to introduce who I am, highlight my interests and goals, and showcase my work.
 
 ---
 
-## Deliverables for Week 5
+## Live Website
 
-- `scope.md` — a formal project scope statement written in Markdown  
-- `index.html` — a single‑page semantic HTML document  
+Click below to view the live site:
 
----
-
-## Exclusions for Week 5  
-
-The following items are explicitly **out of scope** for this project:
-
-- JavaScript functionality (added later in development)  
-- User authentication  
-- Multi‑page navigation  
-- External libraries  
-- Full CSS styling (expanded in later weeks)  
+**Live Website (GitHub Pages Link Here)**  
+*(Replace this with your actual GitHub Pages URL once deployed.)*
 
 ---
 
-## Additional Features Added After Week 5
+## Repository Structure
 
-As the project evolved into a polished portfolio, the following enhancements were implemented:
-
-### Visual Hierarchy & Typography
-
-- Google Fonts (Poppins) for headings  
-- Improved spacing and readability  
-- Section containers with consistent padding  
-- Centered project introduction text  
-
-### Subtle Animations
-
-- Fade‑in animations triggered by scroll  
-- Smooth hover transitions  
-- Animated Back‑to‑Top button  
-
-### Scroll Progress Bar
-
-- Thin progress bar at the top of the page
-- Fills based on scroll position
-- Matches site accent color
-
-### Improved Project Cards  
-
-- Thumbnail images  
-- “Status” badges aligned to the bottom of each card  
-- Modern hover elevation effect  
-- Consistent card spacing and layout  
-
-### Enhanced Contact Section  
-
-- Contact card with improved layout  
-- Clear GitHub and email links  
-- Professional formatting  
-
-### Footer Navigation + Social Icons
-
-- Footer links for About, Projects, Contact  
-- GitHub and placeholder social icons  
-- Clean, centered layout  
-
-### Back‑to‑Top Button  
-
-- Floating circular button  
-- Smooth scrolling  
-- Appears only when scrolling down  
-- Matches site color palette  
-
-### Custom Scrollbar
-
-- Accent‑colored scrollbar  
-- Rounded thumb  
-- Hover color transition  
-- Cross‑browser support (Chrome, Edge, Safari, Firefox)
-
-### Metadata & SEO Enhancements
-
-- Open Graph tags  
-- Author and keyword metadata  
-- Favicon support  
+project-03/
+│
+├── index.html
+├── about.html
+├── style.css
+│
+├── docs/
+│   ├── scope.md
+│   ├── plan.md
+│   └── retrospective.md
+│
+└── README.md
 
 ---
 
-#### Constraints  
+## Documentation
 
-- The webpage must meet all minimum assignment requirements  
-- The final academic submission must be a single `.zip` file containing only:  
-  - `scope.md` **with no -copy in file name**
-  - `index.html` **with no -copy in file name**
+All project documentation is located in the **docs/** folder.
+
+### [scope.md](docs/scope.md)
+
+A detailed Project Scope Statement following PMUPM Chapter 3.  
+Defines the purpose, deliverables, constraints, exclusions, acceptance criteria, and stakeholders.
+
+### [plan.md](docs/plan.md)
+
+A complete project plan including:
+- Work Breakdown Structure (WBS)
+- Task schedule
+- TAME risk analysis  
+Based on PMUPM Chapter 4.
+
+### [retrospective.md](docs/retrospective.md)
+
+A thoughtful reflection on:
+- What went well  
+- What went wrong  
+- What I would do differently  
+Based on PMUPM Chapter 7.
 
 ---
 
-#### Acceptance Criteria  
+## Website Files
 
-The project will be considered complete when:
+### **index.html**
 
-#### **Scope Requirements**
+The homepage of the website.  
+Includes:
+- Header + navigation  
+- Hero section  
+- About preview  
+- Projects section  
+- Footer  
 
-- `scope.md` clearly defines the purpose, description, desired results, and exclusions[^1]
+### **about.html**
 
-#### **HTML Requirements**
+The second page of the website.  
+Includes:
+- Extended background  
+- Personal philosophy  
+- Additional content  
 
-`index.html` includes:
+### **style.css**
 
-- A `<title>` element  
-- An `<h1>` with my name  
-- An `<h2>` for my major or professional interest  
-- A paragraph describing who I am  
-- A paragraph describing my professional interests  
-- A paragraph describing my goals  
-- An unordered list of technical skills  
-- An unordered list of personal interests  
-- A section for projects  
-- A section for contact information  
-- A hyperlink to my GitHub profile  
-- Proper semantic HTML5 structure  
-- Linked CSS file for future styling  
-- Linked JavaScript file for animations and Back‑to‑Top functionality  
+A single, unified stylesheet applied to both pages.  
+Includes:
+- Typography  
+- Layout  
+- Color palette  
+- Responsive design  
+- Accessibility improvements  
 
-#### **Feature Enhancements**
+---
 
-- Project cards with images and status badges  
-- Centered project introduction text  
-- Scroll‑triggered animations  
-- Scroll progress bar
-- Footer navigation with social icons  
-- Back‑to‑Top button  
-- SEO metadata  
+## Technologies Used
 
----[^2]
+- **HTML5** — semantic structure  
+- **CSS3** — styling, layout, responsive design  
+- **JavaScript (optional)** — enhancements such as animations, scroll progress, sticky header, and modal popups  
+- **GitHub Pages** — hosting and deployment  
+- **Markdown** — documentation  
 
-##### Visit Joseph Paris's GitHub and Webpage
+---
 
-- [My GitHub Repository](https://github.com/josephparis28-hue/josephparis28-hue.github.io)
-- [My Personal Webpage](https://josephparis28-hue.github.io/Joseph-Paris-Personnel-Webpage/)
+## Project Goals
 
-##### References
+This project demonstrates my ability to:
 
-[^1]: Kogon, K., & Blakemore, S. (2024). *Project Management for the Unofficial Project Manager* (Updated and Revised Edition). BenBella Books.  
-[^2]: Cone, M. (n.d.). *Markdown Cheat Sheet*. Markdown Guide. [https://markdownguide.org/cheat-sheet]
+- Manage a digital project from conception to completion  
+- Apply PMUPM principles to real work  
+- Build a clean, accessible, responsive website  
+- Organize a professional GitHub repository  
+- Reflect critically on my process  
+
+---
+
+## Contact
+
+If you’d like to connect or view more of my work:
+
+**Joseph Paris**  
+Pampa, Texas  
+GitHub: *(your GitHub username here)*  
+Email: *(optional)*  
+
+---
+
+## Status
+
+**Project Completed — Ready for Submission**
+

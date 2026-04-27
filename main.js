@@ -1,4 +1,4 @@
-// Fade-in on scroll
+// Fade-in on scroll with stagger effect
 const faders = document.querySelectorAll('.fade-in');
 
 const appearOptions = {
@@ -6,8 +6,12 @@ const appearOptions = {
 };
 
 const appearOnScroll = new IntersectionObserver((entries, observer) => {
-  entries.forEach(entry => {
+  entries.forEach((entry, index) => {
     if (!entry.isIntersecting) return;
+
+    // Staggered delay
+    entry.target.style.transitionDelay = `${index * 0.1}s`;
+
     entry.target.classList.add('visible');
     observer.unobserve(entry.target);
   });
@@ -17,14 +21,19 @@ faders.forEach(fader => {
   appearOnScroll.observe(fader);
 });
 
-// Scroll Progress Bar
+// Scroll Progress Bar (with debounce)
 const scrollProgress = document.getElementById('scrollProgress');
+let scrollTimeout;
 
 window.addEventListener('scroll', () => {
-  const scrollTop = window.scrollY;
-  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-  const scrollPercent = (scrollTop / docHeight) * 100;
-  scrollProgress.style.width = scrollPercent + "%";
+  clearTimeout(scrollTimeout);
+
+  scrollTimeout = setTimeout(() => {
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const scrollPercent = (scrollTop / docHeight) * 100;
+    scrollProgress.style.width = scrollPercent + "%";
+  }, 10);
 });
 
 // Back to Top Button
