@@ -31,7 +31,7 @@ This project will follow the practical framework from *Project Management for th
 - Publish the site via GitHub Pages  
 - Submit the final repository link  
 
-This approach ensures clarity, accountability, and steady progress toward a polished final deliverable.
+This approach ensures clarity, accountability and steady progress toward a polished final deliverable.
 
 ---
 
@@ -101,6 +101,24 @@ This approach ensures clarity, accountability, and steady progress toward a poli
 
 ---
 
+## Related Project Examples
+
+The following completed projects demonstrate the type of work that informs this portfolio:
+
+- **Open Door Church of God in Christ Website**  
+  A Wix‑based website built for a local church in Pampa, Texas.  
+  [Open Door Church Website](https://www.opendoor-church.net/)
+
+- **Personal Portfolio Website**  
+  The live version of the website created for this project.  
+  [Personal Profotiol Website](https://josephparis28-hue.github.io/)
+
+- **Roeh 111 Website**  
+  A responsive HTML/CSS website built for a previous course.  
+  [Roeh 111 Website](https://josephparis28-hue.github.io/Roeh-111/)
+
+---
+
 ## 3. Task Schedule
 
 This schedule assumes a 1–2 week development window.
@@ -125,7 +143,7 @@ Total estimated time: **18–24 hours**
 
 ## 4. TAME Risk Analysis
 
-The TAME framework evaluates **Technical, Assumptions, Market, and Execution** risks.
+The TAME framework evaluates **Technical, Assumptions, Market and Execution** risks.
 
 ---
 
@@ -192,4 +210,4 @@ The project will be considered successful when:
 By completing this document, I confirm that this is the official project plan for Project 03 and will guide all remaining work.
 
 **Prepared by:** Joseph Paris  
-**Date:** April 24, 2026
+**Date:** April 29, 2026

@@ -8,9 +8,9 @@
 
 ## 1. Project Purpose
 
-The purpose of this project is to plan and deliver a complete professional‑quality **two‑page personal portfolio website** supported by full project management documentation. This project synthesizes the hybrid generalist mindset from *Range* with the practical execution framework from *Project Management for the Unofficial Project Manager*.
+The purpose of this project involves the planning and delivering a complete professional‑quality **two‑page personal portfolio website** supported by full project management documentation. This project synthesizes the hybrid generalist mindset from *Range* with the practical execution framework from *Project Management for the Unofficial Project Manager*.
 
-The final deliverable will serve as a real, professional portfolio artifact demonstrating my ability to manage a digital project from conception to completion. It will showcase my identity, skills and projects while demonstrating mastery of semantic HTML, CSS, JavaScript, accessibility and documentation.
+The final deliverable will serve as a real, professional portfolio artifact demonstrating the ability to manage a digital project from conception to completion. It will showcase identity, skills and projects while demonstrating mastery of semantic HTML, CSS, JavaScript, accessibility and documentation.
 
 ---
 
@@ -87,6 +87,21 @@ The final project should:
 - `about.html` — Second page  
 - `style.css` — Unified stylesheet  
 - `main.js` — Enhancements  
+
+---
+
+## Project Links
+
+Below are the live links to the projects referenced in this portfolio:
+
+- **Open Door Church Website**  
+  [Open Door Church Website](https://www.opendoor-church.net/)
+
+- **This Portfolio Website**  
+  [Personal Portolio Website](https://josephparis28-hue.github.io/)
+
+- **Roeh 111 Website**  
+  [Roeh 111 Website](https://josephparis28-hue.github.io/Roeh-111/)
 
 ---
 
@@ -180,4 +195,4 @@ The project will be considered complete when:
 By submitting this document, I acknowledge that this is the official scope for Project 03 and that I will follow it throughout development.
 
 **Prepared by:** Joseph Paris  
-**Date:** April 24, 2026  
+**Date:** April 29, 2026  
