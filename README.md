@@ -34,7 +34,8 @@ Click below to view the live site:
 
 ## Desired Results for Week 3
 
-```project-03/
+```Plain-Text
+Joseph-Paris-Personnel-Webpage/
 │
 ├── index.html
 ├── about.html
