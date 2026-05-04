@@ -45,7 +45,8 @@ Click below to view the live site:
 │   ├── plan.md
 │   └── retrospective.md
 │
-└── README.md```
+└── README.md
+
 
 ---
 
