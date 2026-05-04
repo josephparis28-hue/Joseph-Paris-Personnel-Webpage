@@ -34,7 +34,7 @@ Click below to view the live site:
 
 ## Desired Results for Week 3
 
-project-03/
+```project-03/
 │
 ├── index.html
 ├── about.html
@@ -45,7 +45,7 @@ project-03/
 │   ├── plan.md
 │   └── retrospective.md
 │
-└── README.md
+└── README.md```
 
 ---
 
